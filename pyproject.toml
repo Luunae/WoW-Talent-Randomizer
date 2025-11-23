@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "wow talent randomizer"
+version = "0.1.0"
+description = ""
+authors = ["Luna <49705655+Luunae@users.noreply.github.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.13"
+black = "^25.1.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
