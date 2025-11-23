@@ -1,0 +1,23 @@
+Functionality progress:
+
+Core algorithmic status:
+Works if you get lucky. Frequently sets talents to a negative level.
+
+Class/Spec data:
+
+Ready~ish:
+Priest/Holy Class (No spec)
+
+Not ready:
+Everything else.
+I need to find a way to turn the WoW API into something usable without needing to poke them for all of that.
+
+
+See: https://community.developer.battle.net/documentation/world-of-warcraft/game-data-apis
+
+See also: https://pypi.org/project/blizzapi/
+With examples of that here: https://github.com/nickstuer/blizzapi/blob/main/src/blizzapi/clients/wow/retail_client.py
+
+Fun fact!
+Your specialization can change your class talent tree!
+Thanks! I hate it!
